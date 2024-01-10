@@ -6,8 +6,6 @@ Author: Andrea Thiel
 
 ## Links and Resources
 
-
-
 ## Setup
 
 .env requirements (where applicable)

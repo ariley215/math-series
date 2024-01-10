@@ -10,3 +10,5 @@ def lucas(n):
   if n == 1:
     return 1
   return lucas(n - 2) + lucas(n - 1)
+
+def sum_series(, n=0, n=1):
