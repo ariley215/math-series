@@ -4,15 +4,10 @@ Project: Math Series
 
 Author: Andrea Thiel
 
-## Links and Resources
-
 ## Setup
 
 .env requirements (where applicable)
-i.e.
-
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
+.venv
 
 ### How to initialize/run your application 
 
@@ -22,6 +17,6 @@ e.g. python main.py
 
 ### Tests
 
-How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+How do you run tests? pytest
+Any tests of note? 
+Describe any tests that you did not complete, skipped, etc: Still working with tests to get the sum_series function correct

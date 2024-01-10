@@ -36,9 +36,9 @@ def test_lucas_four():
   expected = 7
   assert actual == expected
 
-def test_sumseries_zero():
-  actual = 
-  expected =
+def test_sum_series_zero():
+  actual = sum_series(0)
+  expected = 1
   assert actual == expected
 
 
