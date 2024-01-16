@@ -1,17 +1,18 @@
 # LAB 2 - Class 401
 
 Project: Math Series
+Description: 
 
 Author: Andrea Thiel
 
 ## Setup
 
-.env requirements (where applicable)
+
 .venv
 
 ### How to initialize/run your application 
 
-e.g. python main.py
+e.g. python math_series/mathseries_script.py
 
 ### How to use your library (where applicable)
 
